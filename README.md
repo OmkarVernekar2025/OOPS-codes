@@ -33,3 +33,9 @@ This repository contains coursework, coding exercises, and practical implementat
 | **Department**  | Electronics and Communication Engineering |
 | **Institution** | KLE Technological University              |
 
+## 🎯 Learning Goals
+Build a strong foundation in C++ programming.
+Understand object-oriented programming principles through practical examples.
+Improve logical thinking and problem-solving skills.
+Gain hands-on experience with C++ OOP concepts.
+Maintain a structured record of academic programs and laboratory exercises.

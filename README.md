@@ -14,10 +14,15 @@ No.	Area of Study
 4	Static Members
 5	Friend Functions and Classes
 6	Inheritance
+
+
+
 🛠️ Development Tools
 Programming Language: C++
 Code Editor: Code blocks
 Version Control: Git and GitHub
+
+
 🎓 Student Information
 Field	Details
 Name	Omkar Nagaraj Vernekar
@@ -27,6 +32,8 @@ Roll.no	120
 Semester	7th
 Department	Electronics and Communication Engineering
 Institution	KLE Technological University
+
+
 🎯 Learning Goals
 Build a strong foundation in C++ programming.
 Understand object-oriented programming principles through practical examples.

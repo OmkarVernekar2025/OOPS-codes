@@ -1,4 +1,4 @@
-# OOPS-Codes
+# OOPS-Program
 
 A collection of simple **C++ programs** to learn and practice Object-Oriented Programming (OOP) concepts such as **classes, objects, inheritance, polymorphism, encapsulation, abstraction, constructors and destructors**.
 

@@ -1,8 +1,8 @@
-# OOPS-codes
+# OOPS-Codes
 
-A collection of simple **C++ programs** to learn and practice Object-Oriented Programming (OOP) concepts such as **classes, objects, inheritance, polymorphism, encapsulation, abstraction, constructors, and destructors**.
+A collection of simple **C++ programs** to learn and practice Object-Oriented Programming (OOP) concepts such as **classes, objects, inheritance, polymorphism, encapsulation, abstraction, constructors and destructors**.
 
-This repository contains coursework, coding exercises, and practical implementations completed as part of the **C++ OOPS Elective Lab**. The programs are organized topic-wise to make learning, practice, and revision easier.
+This repository contains coursework, coding exercises, and practical implementations completed as part of the **C++ OOPS Elective Lab**. The programs are organized topic-wise to make learning, practice and revision easier.
 
 ## 📖 Course Contents
 

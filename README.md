@@ -10,7 +10,7 @@ This repository contains coursework, coding exercises, and practical implementat
 | --: | ---------------------------- |
 |   1 | C++ Fundamentals             |
 |   2 | Classes and Objects          |
-|   3 | Constructors and Destructors[static and friend function |
+|   3 | Constructors and Destructors [static and friend function] |
 |   4 | Inheritance                  |
 
 ## 🛠️ Development Tools

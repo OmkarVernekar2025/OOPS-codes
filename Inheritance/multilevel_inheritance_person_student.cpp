@@ -41,8 +41,8 @@ public:
 int main() {
     IT_Student s;
 
-    s.setName("Raghavendra");
-    s.setRollNo(620);
+    s.setName("Rahul");
+    s.setRollNo(120);
     s.setSpecialization("Information Technology");
 
     s.display();

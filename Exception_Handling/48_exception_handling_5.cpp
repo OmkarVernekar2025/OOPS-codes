@@ -1,3 +1,8 @@
+// modification to the previous program
+// write a c++ program for exception handling the divide by zero error...
+// now we switch the throw and the return to see what happens ; now the exception is not handled by us (the defind exception handle),
+// it is handled by the system (eg. codeblox or vsccode or etc...)
+
 #include<iostream>
 using namespace std;
 double division(int a,int b)

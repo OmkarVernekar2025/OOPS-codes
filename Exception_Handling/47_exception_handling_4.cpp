@@ -1,3 +1,5 @@
+// write a c++ program for exception handling the divide by zero error...
+
 #include<iostream>
 using namespace std;
 double division(int a,int b)

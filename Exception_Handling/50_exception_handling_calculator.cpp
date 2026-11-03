@@ -1,3 +1,6 @@
+/* Write a c++ program to develop class calculator for implementing addition, subtraction, multiplication and division function.
+use appropriate exceptions to validate */
+
 #include<iostream>
 using namespace std;
 
